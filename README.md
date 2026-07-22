@@ -6,6 +6,8 @@ A modern, fully functional offline-first business management system built with v
 **Company:** Ubaidi IT Community  
 **Email:** devsamiubaidi@gmail.com
 
+Demo : https://ubaidicoding.github.io/Business-Suite---Offline-ERP-Lite/
+
 ## 🚀 Quick Start
 
 1. Extract `business-suite.zip`
